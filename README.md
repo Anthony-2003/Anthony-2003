@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Anthony Volquez 
-- 👀 I'm interested in be Frontend developer  
-- 🌱 I’m currently learning HTML, CSS and Javascript 
+- 👀 I'm interested in be Frontend developer.
+- 🌱 I’m currently learning HTML, CSS and Javascript in a course of udemy.  
 
 
 <h3 align="left">Languages and Tools:</h3>
