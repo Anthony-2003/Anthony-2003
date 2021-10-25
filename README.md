@@ -3,7 +3,8 @@
 # ATENCIÓN: La parte superior de mi perfil estará escrito en español y posteriormente la traducción en ingles estará escrita en la parte inferior.
 
 
-  👋 Hola, soy un joven de 18 años apasionado por la tecnología. Desde que tengo 13 años, la tecnología ha llamado toda mi atención, tanto así, que se ha convertido en un pasatiempo.También, en mi tiempo libre me gusta jugar videojuegos, salir con mis amigos y pasar tiempo con mi familia. Una de de las áreas que más llamo mi atención fue el de desarrollador web, en el rol de front-end y en un futuro me gustaria ejercer este trabajo. Actualmente, estoy estudiando desarollo de software en la universidad.
+  <p align="justify">👋 Hola, soy un joven de 18 años apasionado por la tecnología. Desde que tengo 13 años, la tecnología ha llamado toda mi atención, tanto así, que se ha convertido en un pasatiempo.También, en mi tiempo libre me gusta jugar videojuegos, salir con mis amigos y pasar tiempo con mi familia. Una de de las áreas que más llamo mi atención fue el de desarrollador web, en el rol de front-end y en un futuro me gustaria ejercer este trabajo. Actualmente, estoy estudiando desarollo de software en la universidad.</p>
+  
 - 👀 I'm interested in be Frontend developer.
 - 🌱 I’m currently learning HTML, CSS and Javascript in a course of udemy.  
 
