@@ -7,10 +7,6 @@ ATTENTION: The upper part of my profile will be written in Spanish and later the
 
   <p align="justify">👋 Hola, soy un joven de 18 años apasionado por la tecnología. Desde que tengo 13 años, la tecnología ha llamado toda mi atención, tanto así, que se ha convertido en un pasatiempo. También, en mi tiempo libre me gusta jugar videojuegos, salir con mis amigos y pasar tiempo con mi familia. Una de de las áreas que más llamo mi atención fue el de desarrollador web, en el rol de front-end y en un futuro me gustaria ejercer este trabajo. Actualmente, estoy aprendiendo HTML, CSS y Javascript en cursos de udemy y mi propia investigacion.</p>
   
-
-- 🌱 I’m currently learning HTML, CSS and Javascript in a course of udemy.  
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
