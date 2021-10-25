@@ -1,6 +1,6 @@
 # Hola, soy Anthony Volquez
 
-<b>ATENCIÓN: La parte superior de mi perfil estará escrito en español y posteriormente la traducción en ingles estará escrita en la parte inferior./<br>
+<b>ATENCIÓN: La parte superior de mi perfil estará escrito en español y posteriormente la traducción en ingles estará escrita en la parte inferior.<br>
 ATTENTION: The upper part of my profile will be written in Spanish and later the English translation will be written at the bottom.</b>
 
 
