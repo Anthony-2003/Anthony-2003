@@ -4,7 +4,8 @@
   
 ATTENTION: The upper part of my profile will be written in Spanish and later the English translation will be written at the bottom.</strong>
 
-<p align="justify">Tengo 18 años y me encanta programar. Desde que tenía 13 años, la tecnología ha captado toda mi atención y siempre quise aprender a codificar. El año que viene, voy a estudiar informática en la universidad. Actualmente, estoy aprendiendo HTML, CSS y Javascript y estoy construyendo mi portafolio. Mi sueño es trabajar como desarrollador web. En mi tiempo libre me gusta jugar videojuegos, estar con mis amigos y pasar tiempo con mi familia.</p>
+<p align="justify">Tengo 18 años y me encanta programar. Desde que tenía 13 años, la tecnología ha captado toda mi atención y siempre quise aprender a codificar. El año que viene, voy a estudiar informática en la universidad. Actualmente, estoy aprendiendo HTML, CSS y Javascript y estoy construyendo mi portafolio. Mi sueño es trabajar como desarrollador web. En mi tiempo libre me gusta jugar videojuegos, estar con mis amigos y pasar tiempo con mi familia.</p> ![image](https://user-images.githubusercontent.com/62162808/149365089-4cf710f4-93a0-4974-acf9-63cf734032a3.png)
+
 
 <p align="justify">I am 18 years old and I love to code. Since I was 13 years old, technology has caught my full attention, and I always wanted to learn how to code. Next year, I am going to study computer science at the university. Currently, I am learning HTML, CSS, and Javascript and i am building my portfolio. My dream is to work as a web developer. In my free time I like to play video games, hang out with my friends, and spend time with my family.</p>
 
