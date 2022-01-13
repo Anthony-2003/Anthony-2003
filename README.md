@@ -1,8 +1,8 @@
 # Hola, soy Anthony Volquez <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="25px" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%;"></a>
 
-<b style="font-weight:900;">ATENCIÓN: La parte superior de mi perfil estará escrito en español y posteriormente la traducción en ingles estará escrita en la parte inferior.<br>
+<strong style="font-weight:900;">ATENCIÓN: La parte superior de mi perfil estará escrito en español y posteriormente la traducción en ingles estará escrita en la parte inferior.<br>
   
-ATTENTION: The upper part of my profile will be written in Spanish and later the English translation will be written at the bottom.</b>
+ATTENTION: The upper part of my profile will be written in Spanish and later the English translation will be written at the bottom.</strong>
 
 <p align="justify">Tengo 18 años y me encanta programar. Desde que tenía 13 años, la tecnología ha captado toda mi atención y siempre quise aprender a codificar. El año que viene, voy a estudiar informática en la universidad. Actualmente, estoy aprendiendo HTML, CSS y Javascript y estoy construyendo mi portafolio. Mi sueño es trabajar como desarrollador web. En mi tiempo libre me gusta jugar videojuegos, estar con mis amigos y pasar tiempo con mi familia.</p>
 
