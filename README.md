@@ -8,8 +8,7 @@ ATTENTION: The upper part of my profile will be written in Spanish and later the
 
 <p align="justify">I am 18 years old and I love to code. Since I was 13 years old, technology has caught my full attention, and I always wanted to learn how to code. Next year, I am going to study computer science at the university. Currently, I am learning HTML, CSS, and Javascript and i am building my portfolio. My dream is to work as a web developer. In my free time I like to play video games, hang out with my friends, and spend time with my family.</p>
 
-<h2 align="center">Languages and Tools:![image](https://user-images.githubusercontent.com/62162808/149262714-67e10caa-6438-4d7d-94d5-70a60da377fa.png)
-</h2>
+<h2 align="center">Languages and Tools:</h2>
 
 <div align="center">
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/9a7c8c4ee62739436a191706be9f786a813dc377ce778522da198cb94874dc22/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d2532334534344432373f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d666666666666"><img src="https://camo.githubusercontent.com/9a7c8c4ee62739436a191706be9f786a813dc377ce778522da198cb94874dc22/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d2532334534344432373f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d666666666666" alt="HTML5" data-canonical-src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&amp;logo=html5&amp;logoColor=ffffff" style="max-width: 100%;"></a>
