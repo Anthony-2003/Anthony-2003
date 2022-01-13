@@ -20,10 +20,10 @@ ATTENTION: The upper part of my profile will be written in Spanish and later the
 
 <h2 align="center">Stats</h2>
 
-<p align="center">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anthony-2003&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-2003&layout=compact)](https://github.com/Anthony-2003/github-readme-stats)
-</p>
+
 
 
 
