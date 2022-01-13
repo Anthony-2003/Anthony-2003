@@ -24,7 +24,7 @@ ATTENTION: The upper part of my profile will be written in Spanish and later the
 <h2 align="center"><g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>Stats</h2>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anthony-2003&show_icons=true&theme=tokyonight$line_height=3)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anthony-2003&show_icons=true&theme=tokyonight&line_height=3)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-2003&theme=tokyonight&line_height=4)](https://github.com/Anthony-2003/github-readme-stats)
    
 
