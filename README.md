@@ -27,7 +27,7 @@ ATTENTION: The upper part of my profile will be written in Spanish and later the
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anthony-2003&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-2003)](https://github.com/Anthony-2003/github-readme-stats)
    
-   <a href="https://github.com/Anthony-2003/github-readme-stats"><img src="https://camo.githubusercontent.com/182ad423be4941b4a8110e7793e91ce08b46aca00e430e0fb49ed1d540bacb19/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d416e74686f6e792d32303033" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-2003" style="max-width: 100%; background-color:red;"></a>
+   <a href="https://github.com/Anthony-2003/github-readme-stats" style="background-color: red;"><img src="https://camo.githubusercontent.com/182ad423be4941b4a8110e7793e91ce08b46aca00e430e0fb49ed1d540bacb19/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d416e74686f6e792d32303033" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-2003" style="max-width: 100%;"></a>
    
 
    
