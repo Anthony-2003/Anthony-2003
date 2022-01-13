@@ -2,12 +2,6 @@
 
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"><img align="right" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="230" data-canonical-src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="max-width: 100%;"></a>
 
-<strong style="font-weight:900;">ATENCIÓN: La parte superior de mi perfil estará escrito en español y posteriormente la traducción en ingles estará escrita en la parte inferior.<br>
-  
-ATTENTION: The upper part of my profile will be written in Spanish and later the English translation will be written at the bottom.</strong>
-
-<p align="justify">Tengo 18 años y me encanta programar. Desde que tenía 13 años, la tecnología ha captado toda mi atención y siempre quise aprender a codificar. El año que viene, voy a estudiar informática en la universidad. Actualmente, estoy aprendiendo HTML, CSS y Javascript y estoy construyendo mi portafolio. Mi sueño es trabajar como desarrollador web. En mi tiempo libre me gusta jugar videojuegos, estar con mis amigos y pasar tiempo con mi familia.</p> 
-
 
 <p align="justify">I am 18 years old and I love to code. Since I was 13 years old, technology has caught my full attention, and I always wanted to learn how to code. Next year, I am going to study computer science at the university. Currently, I am learning HTML, CSS, and Javascript and i am building my portfolio. My dream is to work as a web developer. In my free time I like to play video games, hang out with my friends, and spend time with  my family.</p>
 
