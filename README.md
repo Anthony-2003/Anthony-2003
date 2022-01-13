@@ -16,8 +16,7 @@ ATTENTION: The upper part of my profile will be written in Spanish and later the
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/ee1f8efa669af5258733fc36705130a56fd7d8afc36f4aee553dd96aca4bac0a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e65746c6966792d2532333030433742373f7374796c653d666c61742d737175617265266c6f676f3d6e65746c696679266c6f676f436f6c6f723d666666666666"><img src="https://camo.githubusercontent.com/ee1f8efa669af5258733fc36705130a56fd7d8afc36f4aee553dd96aca4bac0a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e65746c6966792d2532333030433742373f7374796c653d666c61742d737175617265266c6f676f3d6e65746c696679266c6f676f436f6c6f723d666666666666" alt="Netlify" data-canonical-src="https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&amp;logo=netlify&amp;logoColor=ffffff" style="max-width: 100%;"></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anthony-2003&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-2003)](https://github.com/Anthony-2003/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-2003&bg_color=red)](https://github.com/Anthony-2003/github-readme-stats)
 
 
 
