@@ -23,7 +23,7 @@ ATTENTION: The upper part of my profile will be written in Spanish and later the
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anthony-2003&show_icons=true&theme=tokyonight) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-2003&layout=compact)](https://github.com/Anthony-2003/github-readme-stats)
-   <img src="https://camo.githubusercontent.com/c69d08e5fa3d9cb4929c5652856ec2ee65d4ab3d974021ede5ab50ce22b68072/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d4272616879616e50726f" alt="visitors" data-canonical-src="https://visitor-badge.laobi.icu/badge?page_id=BrahyanPro" style="max-width: 100%;">
+   <img src="https://camo.githubusercontent.com/c69d08e5fa3d9cb4929c5652856ec2ee65d4ab3d974021ede5ab50ce22b68072/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d4272616879616e50726f" alt="visitors" data-canonical-src="https://visitor-badge.laobi.icu/badge?page_id=Anthony-2003" style="max-width: 100%;">
 
 
 
