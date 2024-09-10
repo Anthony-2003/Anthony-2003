@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Anthony Volquez</h1>
+<h1>Hello 👋, I'm Anthony Volquez</h1>
 
 <p align="justify">I am 21 years old and I love to code. Since I was 13 years old, technology has caught my full attention, and I always wanted to learn how to code. Currently, i am study science of computer on the university. My dream is to work as a web developer. In my free time I like to play video games, hang out with my friends, and spend time with  my family.</p>
 
