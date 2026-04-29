@@ -13,6 +13,12 @@
 
 ###
 
+<h3>🛠️ Languages and Tools</h3>
+
+###
+
+###
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
