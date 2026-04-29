@@ -1,11 +1,20 @@
-aaa<h1>Hello 👋, I'm Anthony Volquez</h1>
+<h1>Hi, I'm Anthony Volquez 👋</h1>
 
-<p align="justify">I'm a software developer focused on building scalable, maintainable solutions. I've been drawn to technology since I was 13, and I've been building with it ever since.
-I care about writing code that's clean, intentional, and built to last.</p>
+<p align="justify">
+  I'm a software developer focused on building scalable, maintainable solutions.
+  I've been drawn to technology since I was 13, and I've been building with it ever since.
+  I care about writing code that's clean, intentional, and built to last.
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
+- 🔭 &nbsp;2+ years of experience in web development and fintech systems
+- 🎓 &nbsp;Computer Science graduate with a 4.0 GPA
+- 💼 &nbsp;Open to full-time opportunities — available immediately
+- 📍 &nbsp;Based in Dominican Republic
+
+---
 
 <h3>🛠️ Languages and Tools</h3>
+
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
@@ -48,20 +57,9 @@ I care about writing code that's clean, intentional, and built to last.</p>
   </a>
 </p>
 
-<h2 align="center"><g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>Stats:</h2>
+---
 
+<h3>📈 Stats</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anthony-2003&show_icons=true&theme=tokyonight&line_height=27&hide_border=true)
+![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anthony-2003&show_icons=true&theme=tokyonight&line_height=27&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-2003&theme=tokyonight&hide_border=true)](https://github.com/Anthony-2003/github-readme-stats)
-
-
-
-   
-   
-
-
-
-
-
-
-
