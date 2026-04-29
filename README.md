@@ -1,4 +1,4 @@
-<h1>Hi, I'm Anthony Volquez 👋</h1>
+dddddddd<h1>Hi, I'm Anthony Volquez 👋</h1>
 
 <p align="justify">
   I'm a software developer focused on building scalable, maintainable solutions.
@@ -54,4 +54,11 @@
 
 ###
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 
