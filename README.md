@@ -1,4 +1,4 @@
-dddddddd<h1>Hi, I'm Anthony Volquez 👋</h1>
+<h1>Hi, I'm Anthony Volquez 👋</h1>
 
 <p align="justify">
   I'm a software developer focused on building scalable, maintainable solutions.
