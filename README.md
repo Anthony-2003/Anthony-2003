@@ -5,57 +5,48 @@ I care about writing code that's clean, intentional, and built to last.</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div align="center" style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
-
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/>
-  </a>
-
+<h3>🛠️ Languages and Tools</h3>
+<p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40" alt="Next.js"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" alt="SQL Server"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://redis.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40" alt="Redis"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" alt="SQLite"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/>
   </a>
-
-</div>
+</p>
 
 <h2 align="center"><g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>Stats:</h2>
 
