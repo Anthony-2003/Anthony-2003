@@ -1,6 +1,7 @@
 <h1>Hello 👋, I'm Anthony Volquez</h1>
 
-<p align="justify">I am 21 years old and I love to code. Since I was 13 years old, technology has caught my full attention, and I always wanted to learn how to code. Currently, i am study science of computer on the university. My dream is to work as a web developer. In my free time I like to play video games, hang out with my friends, and spend time with  my family.</p>
+<p align="justify">I'm a software developer focused on building scalable, maintainable solutions. I've been drawn to technology since I was 13, and I've been building with it ever since.
+I care about writing code that's clean, intentional, and built to last.</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
